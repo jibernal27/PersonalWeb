@@ -1,0 +1,123 @@
+{
+  "Intereses": [
+    "Reología",
+    "Investigación",
+    "Control no lineal predictivo",
+    "métodos numéricos",
+    "polímeros"
+  ],
+  "descripcion": "Pasión por la química y las matemáticas me llevo a escoger esta carrera, su campo laboral me motiva a continuar.",
+  "experiencia": [
+    {
+      "lugar": "Universidad de los Andes",
+      "fechas": "2015",
+      "nombre": "Tutor privado para estudiantes becados para la decanatura de estudiantes. ",
+      "descripcion":"Dicte clases de cálculo diferencial, calculo integral, probabilidad y estadística y química a estudiantes con problemas en dichas materias. Prepare material de apoyo y les ayude a resolver talleres y exámenes para fortalecer sus debilidades en la materia. "
+    } 
+  ],
+  "habilidades": [
+    {
+      "nombre": "fenómenos de transporte",
+      "valor": 6
+    },
+    {
+      "nombre": "termodinámica",
+      "valor": 8
+    },
+    {
+      "nombre": "optimización",
+      "valor": 9
+    },
+    {
+      "nombre": "métodos numéricos",
+      "valor": 8
+    },
+    {
+      "nombre": "análisis de resultados",
+      "valor": 9
+    },
+    {
+      "nombre": "Matlab",
+      "valor": 9
+    },
+    {
+      "nombre": "Aspen One",
+      "valor": 7
+    },
+    {
+      "nombre": "Minitab",
+      "valor": 8
+    },
+    {
+      "nombre": "Visual Basic",
+      "valor": 8
+    }
+    ,
+    {
+      "nombre": "Office",
+      "valor": 9
+    }
+
+  ],
+  "projectos": [
+    {
+      "nombre": "Macro para el cálculo de volúmenes a partir de datos de presión y temperatura",
+      "descripcion": "Dados los modelos termodinámicos para la ecuación de estado de Soave-Redlich-Kwong, Soave-Kwong y Peng–Robinson implemente una solución capaz de resolver los modelos para diferentes sustancias en microsoft excel.",
+      "materia": "Termodinámica"
+    },
+        {
+      "nombre": "Macro para la solución del equilibrio de fases binario",
+      "descripcion": "Partiendo del modelo de Margules desarrolle una macro capaz de graficar e equilibrio de fases para una presión fija, así como encontrar el azeótropo y un punto de burbuja y roció para una presión en microsoft excel.",
+      "materia":"Equilibrio de fases"
+    },
+    {
+      "nombre": "Macro para el cálculo del cambio de entalpía",
+      "descripcion": "A partir de una sustancia y su cambio de temperatura calcule la entalpia necesaria para forzar el cambio teniendo en cuenta cambio de fase en microsoft excel.",
+      "materia": "Fundamentos de procesos industriales"
+  },{
+      "nombre": "Viscosímetro de capilar",
+      "descripcion": "Utilizando las ecuaciones de momentum y continuidad se diseñó un viscosímetro casero con una precisión del 90%",
+      "materia":" Fenómenos de transporte I"
+    }
+    ,
+    {
+      "nombre": "Diseño y producción de fraîcheur",
+      "descripcion": "Partiendo del diseño multi-escala se creó un perfume hidratante. ",
+      "materia":" Proyecto de mitad de carrera"
+    },
+    {
+      "nombre": "Estudio de tratamiento de aguas para el departamento de la Guajira",
+      "descripcion": "Analizando las fuentes hídricas superficiales, marinas y subterráneas se propuso un método de purificación por carbón activado para las aguas del rio Ranchería con el objetivo de llevar agua a la comunidad Wayuu",
+      "materia":" Procesos de separación"
+    },
+    {
+      "nombre": "Análisis estadístico de la capacidad pulmonar de los Uniandinos",
+      "descripcion": "Utilizando técnicas de análisis estadístico se comprobó si hacer ejercicio afecta la capacidad pulmonar de las personas y cual ejercicio la mejora más.  ",
+      "materia":" Diseño de experimentos"
+    }
+    ,
+    {
+      "nombre": "Macro para la selección de bombas",
+      "descripcion": "Partiendo de la capacidad de cabeza y caudal de las bombas se hizo una solución capaz de escoger la más apropiada para un sistema de tuberías en el cual se tienen en cuenta el tipo de fluido y las perdidas por accesorios y fricción",
+      "materia":"Operaciones unitarias"
+    }
+    ,
+    {
+      "nombre": "Simulación de una pared compuesta de una nevera",
+      "descripcion": "Utilizando Comsol se simulo la transferencia de calor en un sistema de paredes compuestas para determinar el efecto de los puentes térmicos en COP (coefficient of performance)",
+      "materia":"Operaciones unitarias"
+    },
+    {
+      "nombre": "Modelado del Barrel y el Hopper de una máquina de helados",
+      "descripcion": "A través de modelos termodinámicos del refrigerante y las propiedades físicas del sistema se determinó la longitud requerida en los tubos para alcanzar una transferencia de calor deseada",
+      "materia": "Modelado y Simulación en ingeniería química"
+    }
+    ,
+    {
+      "nombre": "Diseño de una planta de producción de cianuro de hidrógeno",
+      "descripcion": "Teniendo en cuenta el mercado colombiano, así como la industria de los químicos se diseñó completamente una planta para la producción de HCN con sus restricciones medio ambientales y de operación ",
+      "materia":"Diseño de plantas de procesos"
+    }
+  ]
+}
+

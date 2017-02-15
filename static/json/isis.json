@@ -1,0 +1,79 @@
+{
+  "Intereses": [
+    "Desarrollo Web",
+    "Optimización",
+    "IoT",
+    "Estructuras de datos",
+    "Full-Stack Development",
+    "Metodologias ágiles"
+  ],
+  "descripcion": "El querer saber cómo funcionan las máquinas me llevo a estudiar esta carrera.",
+  "experiencia": [
+    {
+      "lugar": "Universidad de los Andes",
+      "fechas": "2015-actualidad",
+      "nombre": "Monitor estructuras de datos ",
+      "descripcion":"Calificar talleres y proyectos enfocados en enseñar la implementación de estructuras de datos en Java"
+    } 
+  ],
+  "habilidades": [
+    {
+      "nombre": "Python",
+      "valor": 8
+    },{
+      "nombre": "C#",
+      "valor": 6
+    },{
+      "nombre": "JAVA",
+      "valor": 9
+    },{
+      "nombre": "SQL",
+      "valor": 7
+    },{
+      "nombre": "HTML",
+      "valor": 7
+    },{
+      "nombre": "CSS",
+      "valor": 7
+    },{
+      "nombre": "JavaScript",
+      "valor": 6
+    },{
+      "nombre": "Matlab",
+      "valor": 9
+    },{
+      "nombre": "GAMS",
+      "valor": 8
+    },{
+      "nombre": "Visua Basic",
+      "valor": 8
+    },{
+      "nombre": "Django",
+      "valor": 7
+    }
+
+  ],
+  "projectos": [
+    {
+      "nombre": "Diseño y construcción de un sistema para el manejo de vehículos en Bogotá",
+      "descripcion": "Utilizando patrones de arquitectura se diseñó una solución para cumplir requerimientos de latencia y carga",
+      "materia": "Arquitectura de Software"
+    },
+        {
+      "nombre": "Modelamiento transaccional de la producción de Helados",
+      "descripcion": "Utilizando SQL, Oracle y JAVA se modelo una línea de producción ",
+      "materia": "Sistemas transaccionales"
+    },
+        {
+      "nombre": "construcción de sistema para viajeros",
+      "descripcion": "Utilizando herramientas de seguimiento de calidad de software se desarrolló una herramienta capaz de ayudar a planear viajes utilizando el API de TripAdvisor",
+      "materia": "Desarrollo de Software en equipo"
+    },
+        {
+      "nombre": "Muequetá",
+      "descripcion": "Herramienta móvil para conocer la ciudad de Bogotá desarrollada para Android con un servidor implementado en Flask",
+      "materia": "construcción de aplicaciones móviles. "
+    }
+  ]
+}
+

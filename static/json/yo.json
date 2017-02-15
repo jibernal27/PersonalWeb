@@ -1,0 +1,36 @@
+{
+  "logros": [
+    {
+      "nombre": "Beca quiero estudiar escala TEXC",
+      "descrip": "Universidad de los Andes, Bogotá",
+      "fecha": 2013
+    },
+    {
+      "nombre": "Mejor Bachiller",
+      "descrip": "Colegio Alonso de Olalla, Villeta Cund",
+      "fecha": 2012
+    }
+  ],
+  "formacion": [
+    {
+      "lugar": "Bogotá, 2013-Actualidad",
+      "institucion": "Universidad de los Andes",
+      "titulo": "Ingeniero químico"
+    },
+    {
+      "lugar": "Bogotá, 2013-Actualidad",
+      "institucion": "Universidad de los Andes",
+      "titulo": "Ingeniero de sistemas y computación"
+    },
+    {
+      "lugar": "Villeta Cundinamarca, 2012",
+      "institucion": "SENA",
+      "titulo": "Técnico en cocina y gastronomía básica"
+    },
+    {
+      "lugar": "Villeta Cundinamarca, 2012",
+      "institucion": "Colegio Alonso de Olalla",
+      "titulo": "Bachiller académico"
+    }
+  ]
+}
